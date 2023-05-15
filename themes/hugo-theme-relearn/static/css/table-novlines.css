@@ -1,0 +1,23 @@
+.table-novlines {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-novlines th,
+.table-novlines td {
+  border-bottom: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.table-novlines th {
+  background-color: #f2f2f2;
+}
+.table-novlines td {
+  vertical-align: top;
+}
+.table-novlines tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.table-novlines tr:hover {
+  background-color: #ddd;
+}
+

@@ -1,0 +1,56 @@
+          <style>
+            #logo svg,
+            #logo svg * {
+              color: #282828;
+              color: var(--MENU-SECTIONS-BG-color);
+              fill: #282828 !important;
+              fill: var(--MENU-SECTIONS-BG-color) !important;
+              opacity: .945;
+            }
+            a#logo {
+              margin-top: -.5rem;
+              margin-bottom: 1.8125rem;
+              margin-inline-start: -12.40rem;
+              max-width: 60%;
+              width: 11.125rem;
+              white-space: nowrap;
+            }
+            @media only all and (max-width: 60rem) {
+              p#first-text {
+                font-size: 1.5625rem;
+                margin-top: -.1875rem;
+              }
+              p#second-text {
+                font-size: 1.5625rem;
+                margin-top: -.1875rem;
+              }
+              #logo svg {
+                margin-bottom: -.75rem;
+                margin-inline-start: -1.47rem;
+              }
+            }
+            p#first-text {
+              position: absolute;
+              top: -4px;
+              font-size: 20px;
+              font-weight: 400;
+              left: 90px;
+            }
+            p#second-text {
+              position: absolute;
+              top: 23px;
+              font-size: 15px;
+              font-weight: 200;
+              left: 90px;
+            }
+            a#logo:hover {
+              color: #282828;
+              color: var(--MENU-SECTIONS-BG-color);
+            }
+          </style>
+          <a id="logo" href="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .Site.Home) }}">
+            <img src="logo.png" alt="AIMent" width="55" height="55">
+            <p id = "first-text"> ClinAID </p>
+            <p id = "second-text"> AI for mental healthcare </p>
+           </a>
+

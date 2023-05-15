@@ -1,0 +1,7 @@
+{{ $imgPath := .Get 0 }}
+{{ $img := .Site.GetPage $imgPath }}
+{{ if $img }}
+{{ $img.RelPermalink }}
+{{ else }}
+Error: Image not found.
+{{ end }}
