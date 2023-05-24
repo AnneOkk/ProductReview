@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI for mental healthcare</title>
+    <link>https://example.com/index.html</link>
+    <description>Recent content on AI for mental healthcare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Products</title>
+      <link>https://example.com/products/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/products/index.html</guid>
+      <description>Find artificial intelligence enabled software for mental healthcare that you are looking for.
+Product description HoneyCube by HoneyNaps is a technology for mental disease prediction &amp;amp; bio-signal monitoring. Auticare is an XR-AI based Assistive Technology learning platform for Autism Spectrum Disorder(ASD) and special education. Genetika Plus uses data collected from blood samples to examine personal disorder profiles and responsiveness to a breadth of medications. </description>
+    </item>
+    <item>
+      <title>Companies</title>
+      <link>https://example.com/companies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/companies/index.html</guid>
+      <description> Company name Logo Company description HoneyNaps HoneyCube by HoneyNaps is a technology for mental disease prediction &amp;amp; bio-signal monitoring. Auticare Auticare is an XR-AI based Assistive Technology learning platform for Autism Spectrum Disorder(ASD) and special education. Genetika Plus Genetika Plus uses data collected from blood samples to examine personal disorder profiles and responsiveness to a breadth of medications. </description>
+    </item>
+    <item>
+      <title>Other projects</title>
+      <link>https://example.com/other_projects/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/other_projects/index.html</guid>
+      <description>Find out more about our group and other projects here.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/contact/index.html</guid>
+      <description>Visitor address: Human-AI-Interaction Group, LMU Munich
+Giselastr. 10 (3. Etage), 80802 Munich
+Contact If you have any questions, feel free to contact us.</description>
+    </item>
+  </channel>
+</rss>
