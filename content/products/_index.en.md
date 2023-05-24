@@ -6,10 +6,10 @@ weight = 1
 
 Find artificial intelligence enabled software for mental healthcare that you are looking for.
 
-| Company | Description | Additional information |
+|   | Product description |
 |------|------|-------------|
-| <img src="/products/ieso.jpg" alt="Company A Logo" /> | {{< insert-md "products/ieso.md" >}} | {{< insert-md "products/ieso.md" >}} |
-| Company B |{{< imgsrc "/companies/logo.png" >}} | This is a description for Company B. |
-| Company C | {{< imgsrc "/companies/logo.png" >}} | This is a description for Company C. |
+|  <img src="/images/genlogo.jpg" alt="Company A Logo" /> | HoneyCube by HoneyNaps is a technology for mental disease prediction & bio-signal monitoring. |
+| <img src="/images/genlogo.jpg" alt="Company A Logo" /> | Auticare is an XR-AI based Assistive Technology learning platform for Autism Spectrum Disorder(ASD) and special education. |
+|  <img src="/images/genlogo.jpg" alt="Company A Logo" /> | Genetika Plus uses data collected from blood samples to examine personal disorder profiles and responsiveness to a breadth of medications. |
 
 
